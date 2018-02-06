@@ -1,0 +1,8 @@
+{
+    "events": {
+        "restart": "clear"
+    },
+    "verbose": false,
+    "quiet": true,
+    "stdin": false
+}
